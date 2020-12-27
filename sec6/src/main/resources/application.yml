@@ -1,0 +1,13 @@
+dams:
+  jms:
+    username: dariojms
+    password: somepassjms
+    dburl: testjms
+
+---
+spring:
+  profiles: de
+
+dams:
+  jms:
+    username: dariojms**IN**GERMAN
